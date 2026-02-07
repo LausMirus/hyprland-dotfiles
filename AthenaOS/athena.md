@@ -1,0 +1,1 @@
+[**Athena OS**](https://athenaos.org/) is a security-focused Linux distribution for penetration testing, Capture The Flag (CTF) challenges, and cybersecurity research, offering a minimal yet powerful environment with curated infosec tools and powering cloud-based hacking labs on platforms such as [**Parrot CTF**](https://parrot-ctfs.com/about-us).
