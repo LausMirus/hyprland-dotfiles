@@ -7,7 +7,7 @@ ___
 click [**Athena-OS**](./AthenaOS/athena.md) to learn more.
 ___
 
-[*Wallpaper*](https://wallhaven.cc/w/x1e13l):**wallheven.com**
+___[*Wallpaper*](https://wallhaven.cc/w/x1e13l):wallheven.com___
 <img src="./media/wallpaper.png" width="100%" height="auto" align="center"><br>
 
 ___
