@@ -7,14 +7,12 @@ ___
 click [**Athena-OS**](./AthenaOS/athena.md) to learn more.
 ___
 
-___*Wallpaper* : [wallhaven.cc](https://wallhaven.cc/w/x1e13l)___</br>
-
+___*Wallpaper* : [wallhaven.cc](https://wallhaven.cc/w/x1e13l)___
 <img src="./media/wallpaper.png" width="100%" height="auto" align="center">
 
 ___
 
-___Terminal : Kitty___</br>
-
+___Terminal : Kitty___
 <img src="./media/terminal.png" width="100%" height="auto" align="center"><br>
 <p align="right"><sup>ignore the waybar 🙄</sup></p>
 
