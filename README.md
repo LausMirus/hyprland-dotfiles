@@ -9,5 +9,5 @@ click [**Athena-OS**](./AthenaOS/athena.md) to learn more.
 ___
 
 ___Terminal:Kitty___ <br>
-<img src="./media/terminal.png" width="300" height="auto" align="center"><br>
+<img src="./media/terminal.png" width="100%" height="auto" align="center"><br>
 <p align="right"><sup>ignore the waybar 🙄</sup></p>
