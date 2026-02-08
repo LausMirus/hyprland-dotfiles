@@ -10,4 +10,4 @@ ___
 
 ___Terminal:Kitty___ <br>
 <img src="./media/terminal.png" width="300" height="auto" align="center"><br>
-<sup align="right">ignore the waybar 🙄</sup>
+<p align="right"><sup>ignore the waybar 🙄</sup></p>
