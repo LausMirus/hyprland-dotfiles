@@ -6,4 +6,5 @@ Custom Hyprland dotfiles for Athena OS — a sleek, minimal Wayland workflow tun
 
 click [**Athena-OS**](./AthenaOS/athena.md) to learn more.
  
-
+___Terminal:Kitty___
+<imag src="./media/terminal.png" width="300" height="auto" align="center">
