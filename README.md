@@ -8,6 +8,6 @@ click [**Athena-OS**](./AthenaOS/athena.md) to learn more.
 
 ___
 
-___Terminal:Kitty___
-<img src="./media/terminal.png" width="300" height="auto" align="center">
+___Terminal:Kitty___ <br>
+<img src="./media/terminal.png" width="300" height="auto" align="center"><br>
 <sup>ignore the waybar 🙄</sup>
