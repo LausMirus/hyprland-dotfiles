@@ -3,10 +3,12 @@
 
 
 Custom Hyprland dotfiles for Athena OS — a sleek, minimal Wayland workflow tuned for penetration testing, productivity, and cloud CTF environments like Parrot CTF.
-
+___
+click [**Athena-OS**](./AthenaOS/athena.md) to learn more.
 ___
 
-click [**Athena-OS**](./AthenaOS/athena.md) to learn more.
+[*Wallpaper*](https://wallhaven.cc/w/x1e13l):**wallheven.com**
+<img src="./media/wallpaper.png" width="100%" height="auto" align="center"><br>
 
 ___
 
