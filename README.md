@@ -18,3 +18,13 @@ ___Terminal : Kitty___
 
 ___
 
+___waybar___
+<img src="./media/waybar.png" width="100%" height="auto" align="center"><br>
+
+___
+
+___Network-Menu : Wofi-nmcli___
+<img src="./media/network-menu.png" width="100%" height="auto" align="center"><br>
+
+___
+
